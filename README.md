@@ -13,14 +13,12 @@ Users should be able to:
 
 ### Screenshot
 
-![D:\Screenshots\Screenshot (129).png](./screenshot.jpg)
+![](D:\Screenshots\Screenshot (129).png)
 
 ### Links
 
-- Solution URL: [](https://github.com/vsaini95/chat-app-illustrator)
-- Live Site URL: [Add live site URL here](https://vsaini95.github.io/chat-app-illustrator/)
-
-## My process
+- Solution URL: [Code URL](https://github.com/vsaini95/chat-app-illustrator)
+- Live Site URL: [live site URL](https://vsaini95.github.io/chat-app-illustrator/)
 
 ### Built with
 
