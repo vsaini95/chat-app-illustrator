@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](D:\Screenshots\Screenshot (129).png)
+[].(D:\Screenshots\Screenshot (129).png)
 
 ### Links
 
